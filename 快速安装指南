@@ -1,0 +1,24 @@
+快速上手: 我们推荐使用以下安装方式，正式开始前需要满足以下要求。
+
+操作系统：Ubuntu 16.04及以上
+
+安装方式：pip
+
+python版本：Python3.6及以上,最高3.8
+
+nvidia驱动版本：
+
+pip版本：
+
+CUDA：
+
+xxxxxxxx：
+xxxxx
+
+命令
+pip3 install Oneflow -f https://tianshu.org.cn/whl/of.html
+
+注意事项
+1.请确认Ubuntu系统是64位操作系统
+2.请确认安装的Python及其对应的pip都是64 bit
+3.XXXXXXXX
